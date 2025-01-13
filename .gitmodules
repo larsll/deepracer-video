@@ -17,10 +17,6 @@
 [submodule "deps/BMI160-i2c"]
 	path = deps/BMI160-i2c
 	url = https://github.com/larsll/BMI160-i2c.git
-[submodule "src/web_video_server"]
-	path = deps/web_video_server
-	url = https://github.com/RobotWebTools/web_video_server
-	branch = ros2
 [submodule "src/aws-deepracer-sensor-fusion-pkg"]
 	path = src/aws-deepracer-sensor-fusion-pkg
 	url = https://github.com/larsll/aws-deepracer-sensor-fusion-pkg/
