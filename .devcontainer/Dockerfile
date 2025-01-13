@@ -22,6 +22,7 @@ RUN apt-get update && apt-get upgrade -y && apt-get install -y --no-install-reco
     ros-humble-pybind11-vendor \
     ros-humble-test-msgs \
     ros-humble-web-video-server \
+    ros-humble-camera-ros \
     libjsoncpp-dev \
     v4l-utils \
     libx264-dev \
